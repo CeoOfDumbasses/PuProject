@@ -176,7 +176,9 @@ public class PlatformControllerAdv : MonoBehaviour
         if (jumpBufferCounter > 0f && coyoteTimeLeft > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            jumpEffect.Play();
+            if(jumpEffect != null){
+                jumpEffect.Play();
+            }
             isJumping = true;
             jumpTimeLeft = jumpTime;
             coyoteTimeLeft = 0;
