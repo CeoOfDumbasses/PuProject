@@ -7,8 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/LoadLevel.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="SWEA" />
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -38,6 +41,8 @@
       <workItem from="1758788861891" duration="38000" />
       <workItem from="1758788933613" duration="63000" />
       <workItem from="1758789006209" duration="27000" />
+      <workItem from="1759400448986" duration="161000" />
+      <workItem from="1759400668720" duration="2000" />
     </task>
     <servers />
   </component>
