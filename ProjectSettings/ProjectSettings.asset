@@ -5,7 +5,11 @@ PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   productGUID: 00000000000000000000000000000000
+=======
+  productGUID: 6fcca773123b0499cb08f98cef4f94ae
+>>>>>>> Stashed changes
 =======
   productGUID: 6fcca773123b0499cb08f98cef4f94ae
 >>>>>>> Stashed changes
